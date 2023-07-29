@@ -1,0 +1,14 @@
+receptor = 7P2G_final.pdbqt
+ligand = ligand.pdbqt
+
+center_x = 8.6205
+center_y = -0.440417
+center_z = 20.3263
+
+size_x = 11.9749
+size_y = 6.92997
+size_z = 9.59997
+
+energy_range = 4
+
+exhaustiveness = 8
